@@ -1,7 +1,7 @@
 <?php
 // ১. আপনার মেইন M3U লিংকগুলোর লিস্ট নিচে বসান
 $m3u_urls = [
-    'https://s.bd/2.m3u',
+    'https://alixbd.com/playlistconfig/playlist.m3u',
     'https://alixbd.com/playlistconfig/playlist.m3u',
     'https://example.com/playlist3.m3u'
 ];
