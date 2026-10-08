@@ -1,7 +1,7 @@
 <?php
 // ১. আপনার মেইন M3U লিংকগুলোর লিস্ট নিচে বসান
 $m3u_urls = [
-    'https://example.com/playlist1.m3u',
+    'https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u',
     'https://example.com/playlist2.m3u8',
     'https://example.com/playlist3.m3u'
 ];
